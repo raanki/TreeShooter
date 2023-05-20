@@ -4,6 +4,12 @@
 
 Ceci est un projet de jeu 2D développé avec Python et la bibliothèque Pygame.
 
+### Voici à quoi ressemble le jeu : 
+
+<p align="center"><img src="img/Menu.PNG" alt="jeu.png" width="500" height="300" /></p>
+<p align="center"><img src="img/Jeux1.PNG" alt="jeu.png" width="500" height="300" /></p>
+<p align="center"><img src="img/meteorite.PNG" alt="jeu.png" width="500" height="300" /></p>
+
 ## Description
 
 Le jeu est un jeu 2D dans lequel le joueur contrôle un personnage et doit affronter des monstres tout en évitant les météores qui tombent du ciel. Le joueur peut attaquer les monstres en lançant des projectiles. Le but du jeu est de survivre le plus longtemps possible tout en marquant des points en éliminant les monstres.
