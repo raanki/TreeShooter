@@ -53,8 +53,6 @@ Les contributions sont les bienvenues ! Si vous souhaitez apporter des améliora
 
 Ce jeu a été développé en utilisant la bibliothèque Pygame et s'inspire de différents tutoriels et ressources en ligne.
 
-## Auteur
-
-Ce projet a été développé par ANKI Rayan
+#### by @ranki
 
 
